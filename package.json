@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anthony9292/Note-maker/issues"
   },
-  "homepage": "https://github.com/anthony9292/Note-maker#readme"
+  "homepage": "https://github.com/anthony9292/Note-maker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
