@@ -1,0 +1,19 @@
+{
+  "name": "note-maker",
+  "version": "1.0.0",
+  "description": "note maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony9292/Note-maker.git"
+  },
+  "author": "anthony ndegwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony9292/Note-maker/issues"
+  },
+  "homepage": "https://github.com/anthony9292/Note-maker#readme"
+}
