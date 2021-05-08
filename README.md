@@ -17,7 +17,7 @@ Web based application that allows users to werite and save notes, as well as del
 ## Images 
 Notes Maker Demonstration GIF: 
 
-![]()
+![Note maker](https://github.com/anthony9292/Note-maker/blob/main/notmaker.gif)
 
 Sample of Notes maker Pages : 
 ![Note Maker title screen](https://github.com/anthony9292/Note-maker/blob/main/notemaker.PNG)
