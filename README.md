@@ -3,14 +3,14 @@
 MIT<br>[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Web based application that allows users to werite and save notes, as well as delete the notes they have already written before. 
+Web based application that allows users to write and save notes, as well as delete the notes they have already written before. 
 ## Table of contents
   - [Description](#description)
   - [Table of contents](#table-of-contents)
   - [Images](#images)
   - [License](#license)
   - [Contributing](#contributing)
-
+ -  [Heroku](#heroku)
   - [Tools used](#test-gif)
   - [Questions](#questions)
 
@@ -31,6 +31,9 @@ I have used a mit License for this application, please see repository for docume
 ## Contributing
    anthony9293
 
+## Heroku 
+
+heroku link ---> https://note-manker9000.herokuapp.com/
 
 ## Tools Used 
  - boostrap 
