@@ -20,7 +20,9 @@ Notes Maker Demonstration GIF:
 ![]()
 
 Sample of Notes maker Pages : 
-![](https://github.com/anthony9292/Team-Generator-/blob/main/assets/generatedpage.PNG)
+![Note Maker title screen](https://github.com/anthony9292/Note-maker/blob/main/notemaker.PNG)
+
+![Note Maker input screen](https://github.com/anthony9292/Note-maker/blob/main/notemaker2.PNG)
 
 
 ## License MIT
