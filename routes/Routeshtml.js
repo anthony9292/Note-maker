@@ -8,9 +8,9 @@ module.exports =function (app) {
 
     });
 
-    
+     //when possibility of no matching route is found defualt to home 
     app.get("*", function (req, res) { 
-        res.sendFile(path.join(__dirname, "../public/index.html")); 
+        res.sendFile(path.join(__dirname, "../public/notes.html")); 
 
     });
 };
